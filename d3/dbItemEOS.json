@@ -1,0 +1,231 @@
+{
+    "project": "S",
+    "subproject": "...",
+    "institution": "...",
+    "componentType": "EOS",
+    "properties": {
+        "UNIQUE_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "RF_ID": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "TYPE": "1A"
+        "EOS_NUMBER": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "LOCAL_NAME": "XXXXXXXXXXXXXXXXXXXX",
+        "BATCH": "XXXXXXX",
+        "VERSION": null,
+        "DUMMY": true,
+        "lpGBT_ID": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "VL+_ID": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "CAPACITORS_BATCH_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "RESISTORS_BATCH_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "COILS_BATCH_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "MASTER_SLAVE_CONNECTOR_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "WIRE_CONNECTOR_BATCH_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "VL+_CONNECTOR_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "SERVICE_RING_CONNECTOR_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "FIBER_HOLDER_CONNECTOR_ID": "XXXXXXXXXXXXXXXXXXXX",
+        "NTC_ID": "XXXXXXXXXXXXXXXXXXXX"
+    }
+}
+
+
+//Noise occupancy
+
+{
+    "component": "...",
+    "testType": "NOISE_OCCUPANCY",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "16.04.2019",
+    "passed": true,
+    "problems": false,
+    "properties": {
+        "TIME": "SRXZPCIIQXUUTEKPYHBLJGXHCNFGHK",
+        "ITSDAQ_VERSION": "XQGYDIVLEGZGCNSHAVMLBGQOSSKKWO",
+        "SERIAL_NUMBER": "YAMAOIAXFCFQCXGYYLLMLHUEHQGSQE",
+        "LOCAL_OBJECT_NAME": "GJZHTOXHGAELFAYFNYNPYQUPOYDRDP"
+    },
+    "results": {
+        "STREAM0_ESTENC": [
+            331.34849597190913,
+            331.34849597190913
+        ],
+        "STREAM1_ESTENC": [
+            386.65831156230774,
+            386.65831156230774
+        ]
+    }
+}
+
+
+// BERT
+
+{
+    "component": "...",
+    "testType": "BER",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "16.04.2019",
+    "passed": true,
+    "problems": false,
+    "properties": {
+        "TRAILS": 384,
+        "CONFIG": "YNSBEEFYTUOZBFPUTYGIWFPEWEMYIL"
+    },
+    "results": {
+        "RELIABILITY": 1.6706404343942487,
+        "TIMESTART": "QFWZIQWNCGAVMCOWYSXZAFDJYZXLWF",
+        "TIMEEND": "PMGMKIBEDVNJDMCRDHZNVUGIOLROOE"
+    }
+}
+
+
+// Burn in
+{
+    "component": "...",
+    "testType": "BURNIN",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "16.04.2019",
+    "passed": true,
+    "problems": false,
+    "properties": {
+        "TIME": 0.7592457582621956,
+        "DAC": 122.63839971442493,
+        "IOUT": 358.01407253150285,
+        "TESTID": "ABIOKNNJVSSFYYQYGLZRZXGXOJKZUP"
+    },
+    "results": {
+        "IOUTADC": [
+            340.8483923941169,
+            340.8483923941169
+        ],
+        "VOUTADC": [
+            334.5443267537634,
+            334.5443267537634
+        ],
+        "IINADC": [
+            547.3009414454756,
+            547.3009414454756
+        ],
+        "NTC": [
+            175.86624135680785,
+            175.86624135680785
+        ],
+        "PTAT": [
+            136.80269130214646,
+            136.80269130214646
+        ],
+        "EFF2A": [
+            87.5678251855447,
+            87.5678251855447
+        ]
+    }
+}
+
+
+// picture
+
+{
+    "component": "...",
+    "testType": "PICTURE",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "16.04.2019",
+    "passed": true,
+    "problems": false,
+    "results": {
+        "PICTURE": null,
+        "COMMENT": "BYBUUHOQCURLXJSOLXDWRKFLHKRBKX"
+    }
+}
+
+
+// status
+
+{
+    "component": "...",
+    "testType": "STATUS",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "16.04.2019",
+    "passed": true,
+    "problems": false,
+    "properties": {
+        "CONFIG": "XMXFTISJFOLHNDLTYRIHPDQEMPKUCW"
+    },
+    "results": {
+        "TIMESTART": "PJCMJIIYHPJSKNZDHKUDBYOBAQWMFI",
+        "TIMEEND": "XZYLUDJSMRCLPUNVJSNOPRFGRJPDQH",
+        "VIN": [
+            144.1266028957358,
+            144.1266028957358
+        ],
+        "IIN": [
+            58.33244836467088,
+            58.33244836467088
+        ],
+        "VOUT": [
+            517.9300403434235,
+            517.9300403434235
+        ],
+        "IOUT": [
+            395.416028832722,
+            395.416028832722
+        ],
+        "AMACVDCDC": [
+            963,
+            963
+        ],
+        "AMACVDDLR": [
+            821,
+            821
+        ],
+        "AAMCDCDCIN": [
+            440,
+            440
+        ],
+        "AMACVDDREG": [
+            638,
+            638
+        ],
+        "AMACAM900BG": [
+            248,
+            248
+        ],
+        "AMACAM600BG": [
+            224,
+            224
+        ],
+        "AMACCAL": [
+            925,
+            925
+        ],
+        "AMACNTCPB": [
+            396,
+            396
+        ],
+        "AMACCUR10V": [
+            194,
+            194
+        ],
+        "AMACCUR1V": [
+            863,
+            863
+        ],
+        "AMACHVRET": [
+            353,
+            353
+        ],
+        "AMACPTAT": [
+            383,
+            383
+        ],
+        "HVVIN": [
+            445.2553020036529,
+            445.2553020036529
+        ],
+        "HVIIN": [
+            101.37636109574989,
+            101.37636109574989
+        ]
+    }
+}

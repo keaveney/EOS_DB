@@ -1,0 +1,1194 @@
+{
+  "pageItemList": [
+    {
+      "id": "5b0d356a324e730005bd32c4",
+      "code": "5d8df12614af7a4871892507af3438f9",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "20-6171-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "COCURED",
+        "name": "Co-cured tape",
+        "order": 2,
+        "initial": false,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-29T11:11:38.409Z"
+    },
+    {
+      "id": "5b07dff410214400052507ca",
+      "code": "515d8dd58d070d429868dffbd4aad6ff",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "20-6171-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-25T10:05:40.532Z"
+    },
+    {
+      "id": "5b07df2d102144000525079f",
+      "code": "1253c9031b5a3a196ef14635d7b7e53f",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "20-6171-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-25T10:02:21.146Z"
+    },
+    {
+      "id": "5b06ff7b102144000525051b",
+      "code": "2e2c8699e82aaee84a3afac3f1718164",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T18:07:55.520Z"
+    },
+    {
+      "id": "5b06fe9210214400052504ff",
+      "code": "3cf2e364c0d49ad7216cb6e90037d887",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T18:04:02.611Z"
+    },
+    {
+      "id": "5b06fdef10214400052504ec",
+      "code": "635c698689c0d7d7a01fbede21968e2c",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T18:01:19.764Z"
+    },
+    {
+      "id": "5b06fda010214400052504dd",
+      "code": "c01f7d56233d77b326b4ca50b96d1ac7",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T18:00:00.834Z"
+    },
+    {
+      "id": "5b06fd7510214400052504ce",
+      "code": "03c8abf68143fca585881519e0c8e5ef",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:59:17.222Z"
+    },
+    {
+      "id": "5b06fd5d10214400052504c0",
+      "code": "0e294b37bf0981cb4d7a38e6c74fdfff",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:58:53.335Z"
+    },
+    {
+      "id": "5b06fd0010214400052504ac",
+      "code": "58fa64790a33e0d51b7dd7c1eba9e5f5",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:57:20.386Z"
+    },
+    {
+      "id": "5b06fcb71021440005250499",
+      "code": "38ecec531c42329a0944ccfed9d6e5e2",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:56:07.627Z"
+    },
+    {
+      "id": "5b06fca4102144000525048b",
+      "code": "d21fc663f796bf1f09c3dcec08958aa0",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:55:48.401Z"
+    },
+    {
+      "id": "5b06fc341021440005250478",
+      "code": "42d4c12b3d54502da8bac7b882790d15",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:53:56.212Z"
+    },
+    {
+      "id": "5b06fba7102144000525046b",
+      "code": "cf1b1d1e212856f79e2aa2c4d14a5ba4",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:51:35.956Z"
+    },
+    {
+      "id": "5b06fb43102144000525045f",
+      "code": "22cad655d7e34cec1471474ee8166359",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:49:55.357Z"
+    },
+    {
+      "id": "5b06fae91021440005250459",
+      "code": "ba7a432fa710c4df1b5a3969a3b9377a",
+      "serialNumber": null,
+      "state": "ready",
+      "dummy": false,
+      "userIdentity": "6-11-1",
+      "currentGrade": null,
+      "grades": [],
+      "reworked": false,
+      "institution": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "currentLocation": {
+        "id": "59d1437dbbcf12000502ba44",
+        "code": "OX",
+        "name": "Oxford University",
+        "latitude": 51.759703,
+        "longitude": -1.259569
+      },
+      "project": {
+        "code": "S",
+        "name": "Strips"
+      },
+      "subproject": {
+        "code": "SE",
+        "name": "Strip endcaps"
+      },
+      "componentType": {
+        "id": "59c8bf70704320000525556b",
+        "code": "BT",
+        "name": "Bus Tape",
+        "properties": [
+          {
+            "code": "ID",
+            "name": "Batch ID",
+            "description": "",
+            "dataType": "string",
+            "required": true,
+            "codeTable": [
+              {
+                "code": "",
+                "value": ""
+              }
+            ],
+            "snPosition": "NONE",
+            "default": false
+          }
+        ]
+      },
+      "type": {
+        "code": "BOTTOM_SIDE",
+        "name": "Bottom side Endcap"
+      },
+      "currentStage": {
+        "code": "BARE",
+        "name": "Bare tape",
+        "order": 1,
+        "initial": true,
+        "final": false
+      },
+      "properties": [
+        {
+          "code": "ID",
+          "name": "Batch ID",
+          "value": "BT00000010"
+        }
+      ],
+      "cts": "2018-05-24T17:48:25.283Z"
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 1000,
+    "total": 16
+  },
+  "uuAppErrorMap": {}
+}

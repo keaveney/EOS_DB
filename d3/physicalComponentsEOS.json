@@ -1,0 +1,45 @@
+{
+  "name": "EOS",
+  "children": [
+    { 
+      "name": "PCB"
+    },
+    {
+        "name": "Actives",
+        "children": [
+            { "name": "lpGBTs"
+            },
+            { "name": "VL+"
+            }
+        ]
+    },
+    {
+        "name": "Passives",
+        "children": [
+            { "name": "capacitors"},
+            { "name": "resistors"},
+            { "name": "coils"}
+        ]
+    },
+    {
+        "name": "Connectors",
+        "children": [
+            { "name": "Master-slave"},
+            { "name": "Wires"},
+            { "name": "VL+"},
+            { "name": "Service ring"},
+            { "name": "Fiber holders"}
+        ]
+    },
+    {
+        "name": "Links",
+        "children": [
+            { "name": "AMAC connection"},
+            { "name": "TX-RX"},
+            { "name": "CCR"},
+            { "name": "ELINKS"},
+            { "name": "Fiber holders"}
+        ]
+    }
+  ]
+}

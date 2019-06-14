@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:components_output.txt">
+   </FileRef>
+   <FileRef
+      location = "group:add_attachment.py">
+   </FileRef>
+   <FileRef
+      location = "group:add_comment.py">
+   </FileRef>
+   <FileRef
+      location = "group:ComponentAssemblyGui.py">
+   </FileRef>
+   <FileRef
+      location = "group:../EOS_DB_ATLAS/production_database_scripts/components_output.txt">
+   </FileRef>
+   <FileRef
+      location = "group:generatePlots.py">
+   </FileRef>
+   <FileRef
+      location = "group:get_token.py">
+   </FileRef>
+   <FileRef
+      location = "group:getContentSummary.py">
+   </FileRef>
+   <FileRef
+      location = "group:getInventory.py">
+   </FileRef>
+   <FileRef
+      location = "group:itk_pdb">
+   </FileRef>
+   <FileRef
+      location = "group:make_test.py">
+   </FileRef>
+   <FileRef
+      location = "group:media">
+   </FileRef>
+   <FileRef
+      location = "group:module_codes">
+   </FileRef>
+   <FileRef
+      location = "group:read_db.py">
+   </FileRef>
+   <FileRef
+      location = "group:../EOS_DB_ATLAS/production_database_scripts/README.md">
+   </FileRef>
+   <FileRef
+      location = "group:registerComponent.py">
+   </FileRef>
+   <FileRef
+      location = "group:sensor_codes">
+   </FileRef>
+   <FileRef
+      location = "group:setup.py">
+   </FileRef>
+   <FileRef
+      location = "group:stave_codes">
+   </FileRef>
+   <FileRef
+      location = "group:test_prototype.py">
+   </FileRef>
+   <FileRef
+      location = "group:testing">
+   </FileRef>
+   <FileRef
+      location = "group:upload_test_results.py">
+   </FileRef>
+   <FileRef
+      location = "group:d3/testComponentsEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:d3/dbItemEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/keaveney/EOS_DB/d3/physicalComponentsEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:d3/productionComponentsEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:d3/productionTestsEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:EOS_QC_TEMPLATE.txt">
+   </FileRef>
+   <FileRef
+      location = "group:d3/testsEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:d3/playgroundEOS.json">
+   </FileRef>
+   <FileRef
+      location = "group:d3/index.html">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/keaveney/EOS_DB/d3/typesEOS.json">
+   </FileRef>
+</Workspace>

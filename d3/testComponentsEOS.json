@@ -1,0 +1,175 @@
+{
+    "name": "EOS",
+    "children": [
+        {
+            "name": "PCB",
+            "children": [
+                { "name": "Optical inspection"
+                },
+                { "name": "Power on"
+                },
+                { "name": "HV isolation"
+                }
+            ]
+        },
+        {
+            "name": "Actives",
+            "children": [
+                { "name": "lpGBTs",
+                    "children": [
+                        { "name": "Optical inspection"
+                        },
+                        { "name": "Power on"
+                        },
+                        { "name": "BERT"
+                        },
+                        { "name": "ELINK"
+                        },
+                        { "name": "Thermal cycling"
+                        },
+                        { "name": "HV isolation"
+                        }
+                    ]
+                },
+                { "name": "VL+",
+                    "children": [
+                        { "name": "Optical inspection"
+                        },
+                        { "name": "Power on"
+                        },
+                        { "name": "BERT"
+                        },
+                        { "name": "ELINK"
+                        },
+                        { "name": "Thermal cycling"
+                        },
+                        { "name": "HV isolation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Passives",
+            "children": [
+                { "name": "capacitors",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]},
+                { "name": "resistors",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]},
+                { "name": "coils",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]}
+            ]
+        },
+        {
+            "name": "Connectors",
+            "children": [
+                { "name": "Master-slave", "children": [
+                    { "name": "Optical inspection"}
+                ]},
+                { "name": "Wires", "children": [
+                    { "name": "Optical inspection"}
+                ]},
+                { "name": "VL+", "children": [
+                    { "name": "Optical inspection"}
+                ]},
+                { "name": "Service ring", "children": [
+                    { "name": "Optical inspection"}
+                ]},
+                { "name": "Fiber holders", "children": [
+                    { "name": "Optical inspection"}
+                ]}
+            ]
+        },
+        {
+            "name": "Links",
+            "children": [
+                { "name": "AMAC connection",
+                    "children": [
+                        { "name": "Power on"},
+                        { "name": "BERT"},
+                        { "name": "Thermal cycling"},
+                        { "name": "HV isolation"}
+                    ]},
+                { "name": "TX-RX",
+                    "children": [
+                        { "name": "Power on"},
+                        { "name": "BERT"},
+                        { "name": "Thermal cycling"},
+                        { "name": "HV isolation"}
+                    ]},
+                { "name": "CCR",
+                    "children": [
+                        { "name": "Power on"},
+                        { "name": "BERT"},
+                        { "name": "Thermal cycling"},
+                        { "name": "HV isolation"}
+                    ]},
+                { "name": "ELINKS",
+                    "children": [
+                        { "name": "Power on"},
+                        { "name": "BERT"},
+                        { "name": "ELINK"},
+                        { "name": "Thermal cycling"},
+                        { "name": "HV isolation"}
+                    ]},
+                { "name": "Fiber holders",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]}
+            ]
+        },
+        {
+            "name": "Infrastructure",
+            "children": [
+                { "name": "lpGBT power",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                { "name": "VL+ power",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                { "name": "bustape power",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                { "name": "DC-DC power",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                { "name": "Flex-lead & sevice connector",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]},
+                { "name": "High voltage",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                {"name":  "NTC for temperature",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                {"name":  "ADC ",
+                    "children": [
+                        { "name": "Power on"},
+                         { "name": "BERT"},
+                         { "name": "Thermal cycling"}
+                    ]},
+                { "name": "lpGBT configure",
+                    "children": [
+                        { "name": "Power on"}
+                    ]},
+                { "name": "RF-ID",
+                    "children": [
+                        { "name": "Optical inspection"}
+                    ]}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+Command: list_components
+Request failed, use --verbose flag for more information

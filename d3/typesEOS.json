@@ -1,0 +1,36 @@
+{
+  "name": "EOS",
+  "children": [
+    { 
+      "name": "Stave",
+      "children": [
+          { "name": "Left", "children": [
+              { "name": "Master", "children": [
+                  { "name": "Long"},
+                  { "name": "Short"}
+              ] },
+              { "name": "Slave", "children": [
+                  { "name": "Long"},
+                  { "name": "Short"}
+              ]}
+          ]},
+          { "name": "Right","children": [
+              { "name": "Master", "children": [
+                  { "name": "Long"},
+                  { "name": "Short"}
+              ] },
+              { "name": "Slave", "children": [
+                  { "name": "Long"},
+                  { "name": "Short"}
+              ]}
+          ] }
+      ]
+    },
+    { "name": "Petal",
+        "children": [
+            { "name": "Master"},
+            { "name": "Slave"}
+        ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "project": "S",
+  "subproject": "SE",
+  "componentType": "BT",
+  "type": null,
+  "propertyFilter": [
+    {
+      "code": "ID",
+      "operator": "=",
+      "value": "BT00000010"
+    }
+  ],
+  "pageInfo": {
+    "pageIndex": 0,
+    "pageSize": 1000
+  }
+}

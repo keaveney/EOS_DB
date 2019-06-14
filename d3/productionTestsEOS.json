@@ -1,0 +1,297 @@
+{
+    "name": "EOS",
+    "children": [
+        {"name": "unpopulated PCB",
+            "children": [
+                { "name": "2.1.a test strip resistivities",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                    ]
+                },
+                { "name": "2.1.b test strip impedences",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                        ]
+                },
+                { "name": "2.2 AOI trace width, missing pads, pad surface",
+                    "children": [
+                        { "name": "BOOL"
+                        }
+                ]
+                }
+            ]},
+        {"name": "populated PCB",
+            "children": [
+                {   "name": "3.2 RF-ID readability",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                        ]
+            },
+                {   "name": "3.3 AOI assembly, tested traces, outer BGAs",
+                    "children": [
+                        { "name": "BOOL"
+                        }
+                    ]
+            },
+                {   "name": "3.4.a Impedence and U/I signal to/from lpGBT",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                    ]
+            },
+                {   "name": "3.4.b Impedence and U/I isolation between NTC,HV,LV,GND",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                    ]
+            },
+                {   "name": "4.1.a mechanical",
+                    "children": [
+                        { "name": "STRING VECTOR"
+                        }
+                    ]
+            },
+            {   "name": "4.1.b current consumption",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "4.1.b initialisation",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "4.2.a long temp",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "4.2.a cycle temp",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "4.3 HVtest",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.1 line resistor on HV between connector & bus tape bond pads",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.2.a line resistor on LV between connector & bus tape bond pads",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.2.b line resistor on LV between connector & DC-DC bond pads",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.3.a current consumption after boot process",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.3.a current consumption after initialisation",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.4 PCB/ASIC temp",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.5.a reset signal function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.5.b reset signal delay time",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            },
+            {   "name": "5.6 CCR/AMAC down signals function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.7 E-links and AMAC function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.8.a I2C bus signals function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.9 GPIO function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.10 ADC/DAC function",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.11 NTC temp measurement",
+                "children": [
+                    { "name": "BOOL"
+                    }
+                ]
+            },
+            {   "name": "5.12 BERT",
+                "children": [
+                    { "name": "STRING VECTOR"
+                    }
+                ]
+            }
+            ]}
+    ]
+}
+
+
+
+
+{
+    "component": "...",
+    "testType": "RESPONSE_CURVE",
+    "institution": "...",
+    "runNumber": "...",
+    "date": "17.04.2019",
+    "passed": true,
+    "problems": false,
+    "properties": {
+        "TIME": "LTBBCQKFEMEEFMBJAELSWJWTNHORFQ",
+        "ITSDAQ_VERSION": "LZXUFKLCHKCVYRQVJCBPWRRWXMRFOX",
+        "SERIAL_NUMBER": "CJHVYIMCHMHMBRWXWHYCRUSFSKYNNZ",
+        "LOCAL_OBJECT_NAME": "RYFKHLQBYYUGEHSKKRUDJPGDZBMIBQ",
+        "INPUT_CHARGE": 64.00740522434918
+    },
+    "results": {
+        "STREAM0_VT50": [
+            136.24919387004059,
+            136.24919387004059
+        ],
+        "STREAM0_VT50_RMS": [
+            524.0727519632586,
+            524.0727519632586
+        ],
+        "STREAM0_GAIN": [
+            424.9148150455738,
+            424.9148150455738
+        ],
+        "STREAM0_GAIN_RMS": [
+            420.8096433798802,
+            420.8096433798802
+        ],
+        "STREAM0_OFFSET": [
+            610.0457444074756,
+            610.0457444074756
+        ],
+        "STREAM0_OFFSET_RMS": [
+            48.21309219484854,
+            48.21309219484854
+        ],
+        "STREAM0_OUTNSE": [
+            22.67584929499306,
+            22.67584929499306
+        ],
+        "STREAM0_INNSE": [
+            395.8240028994693,
+            395.8240028994693
+        ],
+        "STREAM0_INNSE_RMS": [
+            617.4601989382805,
+            617.4601989382805
+        ],
+        "STREAM0_P0": [
+            113.08760290892158,
+            113.08760290892158
+        ],
+        "STREAM0_P1": [
+            367.03225514327164,
+            367.03225514327164
+        ],
+        "STREAM0_P2": [
+            307.65389066502973,
+            307.65389066502973
+        ],
+        "STREAM1_VT50": [
+            241.45843051895048,
+            241.45843051895048
+        ],
+        "STREAM1_VT50_RMS": [
+            13.281574756263849,
+            13.281574756263849
+        ],
+        "STREAM1_GAIN": [
+            128.9682045683895,
+            128.9682045683895
+        ],
+        "STREAM1_GAIN_RMS": [
+            330.6945903979532,
+            330.6945903979532
+        ],
+        "STREAM1_OFFSET": [
+            10.012065470579529,
+            10.012065470579529
+        ],
+        "STREAM1_OFFSET_RMS": [
+            192.27822565817502,
+            192.27822565817502
+        ],
+        "STREAM1_OUTNSE": [
+            824.667186413672,
+            824.667186413672
+        ],
+        "STREAM1_INNSE": [
+            257.851336232955,
+            257.851336232955
+        ],
+        "STREAM1_INNSE_RMS": [
+            143.15093723896373,
+            143.15093723896373
+        ],
+        "STREAM1_P0": [
+            193.4832159774508,
+            193.4832159774508
+        ],
+        "STREAM1_P1": [
+            150.61770402443966,
+            150.61770402443966
+        ],
+        "STREAM1_P2": [
+            321.78310131201044,
+            321.78310131201044
+        ]
+    }
+}
